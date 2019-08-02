@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/rrp-logo.png" title="React Redux Practice">
+</p>
+
 # React Redux Practice
 
 > A simple React + Redux implementation.
@@ -10,7 +14,7 @@
 
 ## Running
 
-First `npm install` to grab all the necessary dependencies. 
+First `npm install` to grab all the necessary dependencies.
 
 Then run `npm start` and open <localhost:7770> in your browser.
 
