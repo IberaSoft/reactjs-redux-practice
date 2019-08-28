@@ -37,7 +37,7 @@ const comments = {
       "user": "henrihelvetica"
     },
     {
-      "text": 👍 my daughter is a pancake eating machine!",
+      "text": "my daughter is a pancake eating machine!",
       "user": "brentoage"
     },
     {
@@ -87,7 +87,7 @@ const comments = {
       "user": "imagesofthisandthat"
     },
     {
-      "text": is that the Dell 4k? The MacBook Pro powers it well? I also have a Retina™ / x1 setup as well. Very handy.",
+      "text": "is that the Dell 4k? The MacBook Pro powers it well? I also have a Retina™ / x1 setup as well. Very handy.",
       "user": "henrihelvetica"
     },
     {
