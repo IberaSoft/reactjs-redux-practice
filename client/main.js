@@ -25,7 +25,7 @@ Raven.config(sentry_url, {
 }).install();
 
 logException(new Error('Incomplete Data!'), {
-  email: 'wesbos@gmail.com'
+  email: 'contacto@gmail.com'
 });
 
 Raven.showReportDialog();
