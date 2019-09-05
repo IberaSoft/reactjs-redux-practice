@@ -8,7 +8,7 @@ const Main = React.createClass({
         <h1>
           <Link to="/">Redux Practice</Link>
         </h1>
-        {React.cloneElement(this.props.children, this.props)}
+        {React.cloneElement({...this.props}.children, {...this.props})}
       </div>
     )
   }
