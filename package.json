@@ -15,8 +15,9 @@
     "url": "https://github.com/IberaSoft/reactjs-redux-practice.git"
   },
   "engines": {
-    "node": ">=8.11.2",
-    "yarn": "^1.9.2"
+    "node": "13.1.0",
+    "npm": "6.12.1",
+    "yarn": "1.19.1"
   },
   "license": "MIT",
   "homepage": "https://github.com/IberaSoft/reactjs-redux-practice",
