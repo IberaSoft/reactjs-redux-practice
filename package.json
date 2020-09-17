@@ -1,42 +1,33 @@
 {
   "name": "reactjs-redux-practice",
-  "version": "2.0.0",
-  "description": ":) ",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.0.4",
+    "@testing-library/user-event": "^12.1.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.3",
+    "react-transition-group": "^4.4.1",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0"
+  },
   "scripts": {
-    "start": "react-scripts-with-stylus start src/styles/style.styl",
+    "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/IberaSoft/reactjs-redux-practice.git"
-  },
-  "engines": {
-    "node": "13.1.0",
-    "npm": "6.12.1",
-    "yarn": "1.19.1"
-  },
-  "license": "MIT",
-  "homepage": "https://github.com/IberaSoft/reactjs-redux-practice",
-  "dependencies": {
-    "history": "^4.7.2",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-redux": "^5.0.6",
-    "react-router": "^4.2.0",
-    "react-router-dom": "^4.2.2",
-    "react-router-redux": "^5.0.0-alpha.9",
-    "react-scripts": "1.0.17",
-    "react-transition-group": "^1.2.1",
-    "redux": "^3.7.2"
-  },
-  "devDependencies": {
-    "create-react-app-stylus": "^1.1.1"
+  "eslintConfig": {
+    "extends": "react-app"
   },
   "browserslist": {
     "production": [
       ">0.2%",
+      "not dead",
       "not op_mini all"
     ],
     "development": [
